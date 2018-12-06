@@ -3,8 +3,8 @@
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
-use User;
-use Rating;
+use App\User;
+use App\Rating;
 
 class Book extends Model
 {

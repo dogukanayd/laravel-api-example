@@ -1,7 +1,7 @@
 <?php
 
 namespace App;
-use Book;
+use App\Book;
 
 use Illuminate\Database\Eloquent\Model;
 
